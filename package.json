@@ -1,0 +1,6 @@
+{
+  "name": "electron-builder-tslint-config",
+  "version": "1.0.1",
+  "license": "MIT",
+  "files": ["tslint.json"]
+}
