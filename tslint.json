@@ -59,6 +59,9 @@
     "arrow-parens": [true, "ban-single-arg-parens"],
     "object-literal-key-quotes": [true, "as-needed"],
     "prefer-conditional-expression": false,
-    "no-submodule-imports": false
+    "no-submodule-imports": false,
+    "no-implicit-dependencies": false,
+    "no-return-await": false,
+    "ban-comma-operator": false
   }
 }
